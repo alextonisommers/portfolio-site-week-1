@@ -1,0 +1,48 @@
+
+
+h1 {
+	color:#f2b81e;
+	font-size: 20px;
+	font-family: futura;
+	letter-spacing: 4px;
+	text-align: center;
+}
+
+h2 {
+	color:gray;
+	font-size: 18px;
+	font-family: futura;
+	text-align: center;
+}
+
+
+p {
+	color: gray;
+	font-size: 14px;
+	font-family: verdana;
+	text-align: center;
+}
+li {color: gray;
+	font-size: 14px;
+	font-family: verdana;
+	text-align: center;}
+h3 {
+	color:#ffffff;
+	background:#f2b81e;
+	font-size:16px;
+	font-family: futura;
+	text-align: center;
+}
+h3 span {
+	background-color:#f2b81e
+}
+img {
+	align-content: center;
+}
+h4{
+	color:gray;
+	font-size: 16px;
+	font-family: futura;
+	text-align: center;
+
+}
